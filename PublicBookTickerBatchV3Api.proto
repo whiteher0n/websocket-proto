@@ -3,7 +3,7 @@
 syntax = "proto3";
 import "PublicBookTickerV3Api.proto";
 
-option go_package = "github.com/whiteher0n/henry/pricescraper/mexc/websocket-proto";
+option go_package = "github.com/whiteher0n/henry/pricescraper/mexc/wsmodel";
 option java_package = "com.mxc.push.common.protobuf";
 option optimize_for = SPEED;
 option java_multiple_files = true;
